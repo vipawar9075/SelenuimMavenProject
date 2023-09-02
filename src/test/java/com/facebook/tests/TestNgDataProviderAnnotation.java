@@ -89,7 +89,7 @@ public class TestNgDataProviderAnnotation {
 		
 		Thread.sleep(3000);
 		driver.navigate().back();
-		System.out.println("Test Case passed");
+	
 		
 	}
 		
